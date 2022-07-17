@@ -1,0 +1,1 @@
+is data type that contains two types of values 0 & 1; either true or false,we do not have to use any header file to use boolean in C++, but in C we have to i.e stdbool.h, else the progrma will no complie
